@@ -1,5 +1,7 @@
 # TensorFlow Examples
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/TensorFlow-Examples.svg)](https://www.staging.guardrails.io)
+
 This tutorial was designed for easily diving into TensorFlow, through examples. For readability, it includes both notebooks and source codes with explanation.
 
 It is suitable for beginners who want to find clear and concise examples about TensorFlow. Besides the traditional 'raw' TensorFlow implementations, you can also find the latest TensorFlow API practices (such as `layers`, `estimator`, `dataset`, ...).
